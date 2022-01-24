@@ -1,7 +1,6 @@
 ---
 title: "Middle Eastern thought"
-bookFlatSection: true
-bookToC: true
+bookCollapseSection: true
 ---
 
 ## Middle East

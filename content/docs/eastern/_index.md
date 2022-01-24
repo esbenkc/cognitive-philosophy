@@ -1,7 +1,6 @@
 ---
 title: "Eastern thought"
-bookFlatSection: true
-bookToC: true
+bookCollapseSection: true
 ---
 
 ## Eastern philosophy

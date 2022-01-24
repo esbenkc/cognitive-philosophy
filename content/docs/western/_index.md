@@ -1,7 +1,6 @@
 ---
 weight: 5
 bookCollapseSection: true
-# bookFlatSection: true
 title: "Western thought"
 ---
 
