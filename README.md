@@ -1,4 +1,4 @@
-[Visit the website](https://cognitivephilosophy.netlify.io)
+[![website](https://img.shields.io/badge/Visit%20the%20website--orange)](https://cognitivephilosophy.netlify.app/)
 
 # 🧠 Cognitive philosophy
 ![status](https://img.shields.io/badge/in%20development-status-orange) 
