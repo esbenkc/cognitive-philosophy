@@ -1,4 +1,4 @@
-baseURL = 'https://cognitivephilosophy.org/'
+baseURL = 'https://cognitivephilosophy.netlify.app/'
 languageCode = 'en-us'
 title = 'Cognitive Philosophy'
 theme = 'hugo-book'
