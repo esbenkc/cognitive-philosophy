@@ -1,5 +1,5 @@
 ---
-title: "Eastern philosophy"
+title: "Eastern thought"
 type: docs
 bookFlatSection: true
 bookToC: true
@@ -7,15 +7,6 @@ bookToC: true
 
 ## Eastern philosophy
 
-### Central Asia
-- Includes classically Chinese philsophers
-
-#### ToC
-- Lao Tse
+- Taoism: Lao Tzu (Tao Te Ching) 
 - Confucius
-
-### South Asia
-- Includes the Indian subcontinent
-
-#### ToC
 - Buddha (Siddhartha Gautama)
