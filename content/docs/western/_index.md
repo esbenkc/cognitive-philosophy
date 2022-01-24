@@ -1,6 +1,5 @@
 ---
 title: "Western thought"
-type: docs
 bookFlatSection: true
 bookToC: true
 ---

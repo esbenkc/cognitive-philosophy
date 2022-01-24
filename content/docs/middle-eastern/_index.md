@@ -1,6 +1,5 @@
 ---
 title: "Middle Eastern thought"
-type: docs
 bookFlatSection: true
 bookToC: true
 ---
@@ -10,3 +9,4 @@ bookToC: true
 - Greek and hebrew thought: Saadia Gaon
 - Logic: Yahya ibn Adi
 - Atheism & polymath: Avicenna 
+- Illuminationism: Sohrevardi

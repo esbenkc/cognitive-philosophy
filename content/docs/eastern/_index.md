@@ -1,6 +1,5 @@
 ---
 title: "Eastern thought"
-type: docs
 bookFlatSection: true
 bookToC: true
 ---

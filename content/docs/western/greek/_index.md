@@ -1,6 +1,5 @@
 ---
 title: "Greek thought"
-type: docs
 bookFlatSection: true
 bookToC: true
 ---
