@@ -1,7 +1,8 @@
 ---
+weight: 5
+bookCollapseSection: true
+# bookFlatSection: true
 title: "Western thought"
-bookFlatSection: true
-bookToC: true
 ---
 
 ## Western thought
