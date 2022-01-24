@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Eastern Philosophy"
-permalink: /eastern-philosophy/
+title: "Eastern philosophy"
+type: docs
+bookFlatSection: true
+bookToC: true
 ---
 
 ## Eastern philosophy
