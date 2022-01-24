@@ -1,4 +1,4 @@
-[![website](https://img.shields.io/badge/Visit%20the%20website--green)](https://cognitivephilosophy.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c2e1003c-f4fb-497c-8513-d3a5995939e6/deploy-status)](https://app.netlify.com/sites/cognitivephilosophy/deploys) [![website](https://img.shields.io/badge/Visit%20the%20website--green)](https://cognitivephilosophy.netlify.app/)
 
 # 🧠 Cognitive philosophy
 ![status](https://img.shields.io/badge/in%20development-status-orange) 
