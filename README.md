@@ -1,3 +1,5 @@
+[Visit the website](https://cognitivephilosophy.netlify.io)
+
 # 🧠 Cognitive philosophy
 ![status](https://img.shields.io/badge/in%20development-status-orange) 
 ![framework](https://img.shields.io/badge/hugo-framework-blue) 
